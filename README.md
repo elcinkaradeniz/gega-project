@@ -32,4 +32,11 @@ Tailwind CSS IntelliSense: Kod yazarken Tailwind sınıfları için otomatik tam
 Lisans
 Bu proje MIT Lisansı ile lisanslanmıştır. Daha fazla bilgi için LICENSE dosyasına bakabilirsiniz.
 
+## Canlı Önizleme
+
+Projeyi canlı olarak şu adreste görüntüleyebilirsiniz: [Gega Project Live Demo](https://g-projesi.netlify.app/)
+
+## Kurulum ve Kullanım
+
+...
 
