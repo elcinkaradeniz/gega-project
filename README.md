@@ -32,6 +32,16 @@ Tailwind CSS IntelliSense: Kod yazarken Tailwind sınıfları için otomatik tam
 Lisans
 Bu proje MIT Lisansı ile lisanslanmıştır. Daha fazla bilgi için LICENSE dosyasına bakabilirsiniz.
 
+## Yararlanılan Kaynaklar
+
+- [Tailwind CSS](https://tailwindcss.com/)
+- [YouTube Playlist: Tailwind CSS Tutorials](https://www.youtube.com/watch?v=vCgQcyCPH0Y&list=PL-Hkw4CrSVq-Oc898YeSkcHTAAS2K2S3f)
+- ChatGPT
+
+...
+
+
+
 ## Canlı Önizleme
 
 Projeyi canlı olarak şu adreste görüntüleyebilirsiniz: [Gega Project Live Demo](https://g-projesi.netlify.app/)
