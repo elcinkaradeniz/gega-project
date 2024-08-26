@@ -44,7 +44,7 @@ Bu proje MIT Lisansı ile lisanslanmıştır. Daha fazla bilgi için LICENSE dos
 
 ## Canlı Önizleme
 
-Projeyi canlı olarak şu adreste görüntüleyebilirsiniz:[ [Gega Project Live Demo](https://g-projesi.netlify.app/)](https://gega-web-sitesi.netlify.app/)
+Projeyi canlı olarak şu adreste görüntüleyebilirsiniz: https://gega-web-sitesi.netlify.app/
 
 ## Kurulum ve Kullanım
 
